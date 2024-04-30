@@ -1,0 +1,105 @@
+1.faça um programa onde a pessoa tem que escolher entre 3 sabores de bolacha, chocolate morango e baunilha
+
+bolacha_de_morango = 1
+bolacha_de_chocolate = 2
+bolacha_de_baunilha = 3
+
+escreva("escolhe uma das 3 opcoes de bolacha")
+
+if == 1
+print("voce escolheu a bolacha de morango")
+
+elif == 2
+print("voce escolheu a bolacha de chocolate")
+
+else:
+print("voce escolheu a bolacha de baunilha")
+
+
+2.faca um programa onde a pessoa escolha o estado em que nasceu, os estados sao sao paulo, bahia, rio de janeiro e para
+
+sao_paulo = 1
+bahia = 2
+rio_de_janeiro = 3
+para = 4
+
+escreva("escolha o estado que voce nasceu")
+
+if == 1
+print("voce nasceu em sp")
+ 
+elif == 2
+print("voce nasceu na bahia kkk")
+
+elif == 3 
+print("voce nasceu no erri jota") 
+
+else:
+print("voce nasceu no para")
+
+
+
+EXERCICIOS FOR
+
+1.faca um programa que descubra a categoria de base do atleta
+ 
+sub8 = 2015/2016
+sub10 = 2014/2013
+sub12 = 2012/2011
+sub14 = 2010/2009
+sub16 = 2008/2007
+sub18 = 2006/2005
+
+
+
+
+for i in range(1)
+ano_que_nasceu = input("digite o ano que voce nasceu")for i in range(1) 
+
+if == 2015/2016
+
+print("voce e do sub 8")
+
+elif ==  2014/2013
+
+print("voce e do sub 10")
+
+elif == 2012/2011
+print("voce e do sub 12")
+
+elif == 2010/2009
+
+print("voce e do sub 14")
+
+elif == 2008/2007
+print("voce e do sub 16")
+
+elif == 2006/2005
+print("voce e do sub 18")
+
+---------------------------------
+
+2.faca um programa que 4 pessoas escolha o time q ela torce, os times sao corinthians,santos,sao paulo e palmeiras
+
+corinthians = 0
+sao_paulo = 0
+palmeiras = 0
+santos =
+
+for i in range(4):
+
+time = int(intput("escolha seu time"))
+
+if time >= corinthians:
+corinthians += time
+
+elif time >= sao_paulo:
+sao_paulo += time
+
+elif time >= palmeiras:
+palmeiras += time
+
+else:
+santos += time
+
+
